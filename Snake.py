@@ -234,7 +234,3 @@ def main():
 
 
 main()
-
-# This checks if the snake is at the end of the screen, if so then pop out
-             #       sCube.pos = (sCube.pos[0], sCube.rows - 1)         # on the opposite side of the screen and keep the inverse position the same
-             #   if sCube.directionY == 1 and sCube.pos[1] >= sCube.rows - 1:      # i.e if at end of right edge, change x to 0 and keep y the same
